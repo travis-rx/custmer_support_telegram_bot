@@ -1,8 +1,8 @@
 # custmer_support_telegram_bot
 Ticket based customer support Telegram Bot
 
-**Features
-**
+**Features**
+
 1. Psuedononymous names to customers, agents, and sellers without revealing their username.
 2. Ticket based session management, to track the status of the ticket
 3. An agent can handle 10 ticket sessions at a time, he can switch between each session with left and right arrow buttons and reply to the session.
@@ -11,8 +11,8 @@ Ticket based customer support Telegram Bot
 6. Admin can manually create session between Customer and Seller even if agent is not available.
 7. All chat logs are sent to the admin chat window and keep updated.
 
-**Admin Panel
-**
+**Admin Panel**
+
 1. Add/Remove Agent and Seller (User Name, Tier1 or Tier2)
 2. Create Manual Session between Customer and Seller
 3. View chat logs of all sessions
