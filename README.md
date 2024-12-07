@@ -1,4 +1,5 @@
-custmer_support_telegram_bot
+**custmer_support_telegram_bot
+**
 
 Ticket based customer support Telegram Bot
 
@@ -31,4 +32,7 @@ Seller
 
 All the user names will be hidden and assigned with psuedononymouns names for not letting customer information leaked to sellet or agents.
 
-If anyone interested in this, please send a DM to my Telegram Travis_bz
+[370595115-c52e9b0c-faf0-455a-b032-182f968ccac2.webm](https://github.com/user-attachments/assets/6b287aed-4fe6-4eb4-a121-544d39243775)
+
+
+If anyone interested in this, please send a DM to my Telegram/Discord: travis_rx
