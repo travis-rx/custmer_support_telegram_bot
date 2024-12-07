@@ -1,0 +1,18 @@
+{
+  "name": "supportbot",
+  "version": "1.0.0",
+  "description": "support bot to product order",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js --disable-warning --no-warnings"
+  },
+  "author": "travis",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "human-names": "^1.0.12",
+    "mongoose": "^8.3.4",
+    "node-telegram-bot-api": "^0.65.1"
+  }
+}
